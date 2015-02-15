@@ -20,6 +20,7 @@
     "bootstrap": "~3.3.1",
     "animate.less": "*",
     "less.js": "~2.2.0",
-    "modernizr": "~2.8.3"
+    "modernizr": "~2.8.3",
+    "ui-router": "~0.2.13"
   }
 }
